@@ -9,7 +9,7 @@ It's June 2025. Yes, the data is already coming in. Tech optimists will counter 
 
 It's on you. Let's get ahead of this - society failed with social media not knowing early.
 
-This week, I've several mentions in media this week, and have thought this through quite a bit myself.
+This week, I've seen several mentions in media this week, and have thought this through quite a bit myself.
 
 Students are using AI to write papers and losing critical thinking skills. AI agents are being created to work alongside you in the workplace. 
 
