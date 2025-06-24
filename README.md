@@ -5,7 +5,7 @@ AI can be helpful and changes are happening. It is designed to aid humans but ha
 
 Your brain and cognitive skills can diminish with LLM use, but can also be built up - AI smart! 
 
-It's June 2025. Yes, the data is already coming in. Tech optimists will counter this with valid point. Modernization of jobs saw people move away from farm and industrialized roles into offices and other positions. Physical exercise wasn't built into work. I am writing this from a gym. With AI, you have to maintain your brain and cognitive skills!
+It's June 2025. Yes, the data is already coming in. Tech optimists will counter this with valid points. Consider an analogy: modernization of jobs saw people move away from farm and industrialized roles into offices and other positions. Physical exercise wasn't built into work. I am writing this from a gym. With AI, you have to maintain your brain and cognitive skills!
 
 It's on you. Let's get ahead of this - society failed with social media not knowing early.
 
