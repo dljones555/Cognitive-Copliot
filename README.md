@@ -1,4 +1,4 @@
-# Cognitive-Copliot
+# Cognitive Copilot
 App to help you maintain your cognitive and brain skills while using AI.
 
 AI can be helpful and changes are happening. It is designed to aid humans but has various risks.
