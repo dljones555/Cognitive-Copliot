@@ -21,4 +21,6 @@ Modernization of jobs saw people move away from farm and industrialized roles in
 
 My dialog with ChatGPT regarding this, and vibe coding start of an app to manage this.
 
+[A little chat with OpenAI ChatGPT about this...](https://chatgpt.com/share/6859d2fb-2d78-800d-b054-4e041f7b7b68)
+
 ![Alt text](cognitive_copilot_screenshot.png)
