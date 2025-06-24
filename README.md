@@ -3,11 +3,13 @@ App to help you maintain your cognitive and brain skills while using AI.
 
 AI can be helpful and changes are happening. It is designed to aid humans but has various risks.
 
-Your brain and cognitive skills can diminish if you don't watch it. The data is already coming in.
+Your brain and cognitive skills can diminish with LLM use, but can also be built up - AI smart! 
 
-It's June 2025. I've seen several mentions in media this week and have thought this through quite a bit myself.
+It's June 2025. Yes, the data is already coming in. Optimist will counter this. Let's get ahead of this - society failed with social media not knowing early.
 
-Students are using AI to write papers and losing critical thinking skills - it's true! AI agents are being created to work alongside you in the workplace.
+I've seen several mentions in media this week and have thought this through quite a bit myself.
+
+Students are using AI to write papers and losing critical thinking skills. AI agents are being created to work alongside you in the workplace.
 
 - [MIT study explores how ChatGPT is quietly shaping human thought](https://computeruser.com/mit-study-explores-how-chatgpt-is-quietly-shaping-human-thought)
 
